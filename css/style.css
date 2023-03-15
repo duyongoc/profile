@@ -20,6 +20,11 @@ body {
   background: #fff;
 }
 
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
 #page {
   position: relative;
   overflow-x: hidden;
