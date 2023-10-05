@@ -18,3 +18,7 @@ game3d_battle_simulator
 game3d_tennis_mobile
 - https://github.com/duyongoc/game3d_tennis_mobile
 - https://github.com/webunity/webgl_game3d_tennis_mobile
+
+game2d_match3_juice
+- https://github.com/duyongoc/game2d_match3_juice
+- https://github.com/webunity/webgl_game2d_match3_juice
