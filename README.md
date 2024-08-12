@@ -1,3 +1,3 @@
-# my_profile
+# profile
 
-https://duyongoc.github.io/portfolio/
+https://duyongoc.github.io/profile/
