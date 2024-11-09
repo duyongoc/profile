@@ -12,11 +12,12 @@
 *
 * ======================================================= */
 body {
-  font-family: "Space Mono", Arial, serif;
+  /* font-family: "Space Mono", Arial, serif; */
+  font-family: "Open Sans";
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
-  color: #4d4d4d;
+  color: #111111;
   background: #fff;
 }
 
@@ -80,10 +81,11 @@ h4,
 h5,
 h6,
 figure {
-  color: #000;
-  font-family: "Space Mono", Arial, serif;
+  /* font-family: "Space Mono", Arial, serif; */
+  font-family: "Open Sans";
   font-weight: 400;
   margin: 0 0 20px 0;
+  color: #000;
 }
 
 ::-webkit-selection {
@@ -411,7 +413,7 @@ figure {
 .info li .second-block {
   width: 60%;
   display: inline-block;
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.8);
 }
 
 .fh5co-social-icons {
@@ -1272,7 +1274,8 @@ input[type="text"] {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: "Space Mono", Arial, serif;
+  /* font-family: "Space Mono", Arial, serif; */
+  font-family: "Roboto";
   font-size: 16px;
   font-weight: 400;
   -webkit-border-radius: 30px;
